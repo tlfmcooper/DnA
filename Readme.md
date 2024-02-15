@@ -23,6 +23,6 @@ The dashboard applicatuon has been developed in `dashboard.py` file.
 
 ### Business Intelligence:
 
-I have built a dashboard. You can either run it locally with `streamlit run dashboard.py` or click on this link to view it [dashboard]()
+I have built a dashboard. You can either run it locally with `streamlit run dashboard.py` or click on this link to view it [dashboard](https://tlfmcooper.streamlit.app/)
 
 It may take a few second for the map to load.
